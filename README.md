@@ -12,4 +12,8 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+this is stupid
+
 ## How To Contribute
+
+this is so so so stupid
